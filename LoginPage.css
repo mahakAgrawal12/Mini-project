@@ -1,0 +1,47 @@
+body{
+    background-color:gray;
+}
+.container {
+    margin-top: 100px;
+    background-color: white;
+    width: 400px;
+    border-radius: 5px;
+    overflow: hidden;
+    height: 400px;
+    margin-left: 800px;
+    margin-bottom: 100px;
+  }
+ input
+ {
+     border-radius: 5px;
+     margin: 10px;
+     width: 360px;
+     height: 30px;
+ }
+ .btn1{
+     background-color: blue;
+     border-radius: 5px;
+     width: 360px;
+     height: 30px;
+     color: white;
+     margin: 10px;
+ }
+ a{
+     display: block;
+     text-align: center;
+     margin-top: 6px;
+ }
+ .btn2
+ {
+     background-color: green;
+     align-items: center;
+     color: white;
+     margin: 30px;
+     height: 40px;
+     width: 200px;
+     margin-left: 100px;
+ }
+ .heading h1{
+     color: blue;
+     top: 40px;
+ }
